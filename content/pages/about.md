@@ -49,7 +49,7 @@ Estoy enfocada en trabajar las areas de Marketing Digital como Community Manager
 
 ## **Mis servicios**
 
-
+****![](/\_static/app-assets/images/servicios.gif)
 
 ## **Proyectos recientes**
 
