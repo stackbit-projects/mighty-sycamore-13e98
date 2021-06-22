@@ -22,7 +22,7 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: 'Interes en:'
+        label: 'Interés en:'
         default_value: Please select
         options:
           - Error on the site
