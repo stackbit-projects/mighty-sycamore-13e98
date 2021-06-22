@@ -5,9 +5,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: '¡Aprende, crea, disfruta y ayuda!'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >+
+      Bienvenidos a este espacio donde conocerás un poco sobre mi, lo que hago y
+      me apasiona hablar. Si te gusta sentir buenas energías, leer sobre el
+      Marketing Digital, psicología o estas necesitando estos servicios, estas
+      en el lugar adecuado. Siéntete agusta/o para seguir leyendo.
+
   - section_id: about
     type: section_content
     title: About
