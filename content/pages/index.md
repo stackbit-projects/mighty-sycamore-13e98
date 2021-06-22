@@ -19,7 +19,7 @@ sections:
 
     actions:
       - label: Contact Me
-        url: /contact
+        url: /about
         style: button
   - section_id: recent-posts
     type: section_posts
