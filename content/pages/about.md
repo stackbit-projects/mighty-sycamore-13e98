@@ -47,8 +47,16 @@ Soy una persona que le encanta vivir cada instante con las cosas más pequeñas 
 
 Estoy enfocada en trabajar las areas de Marketing Digital como Community Manager, Content Manager y Social Media Manager.
 
+
+
+## **Mis servicios**
+
+****![](/\_static/app-assets/images/ASESORIAS%20VIRTUALES.png)
+
+![](/\_static/app-assets/images/ASESORIAS%20VIRTUALES%20\(1\).png)
+
 ## **Proyectos recientes**
 
 En estos momentos me encuentro organizando mi proyecto de marca personal para transmitir por medio de mis redes sociales conocimientos que le sean necesarios a mi comunidad y a su vez, si necesitan contrarme u obtener mis servicios. Tambien estoy relizando mi blog personal y subo podcast todos los viernes sobre salud mental.
 
-Para escucharlos puedes ingresar aca ->[ https://anchor.fm/mara-maiguel](https://anchor.fm/mara-maiguel)
+Para escucharlos puedes ingresar aca -> <https://anchor.fm/mara-maiguel>
