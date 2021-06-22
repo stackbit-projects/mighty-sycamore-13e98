@@ -18,7 +18,7 @@ sections:
       Digital - #CommunityManager - #SocialMediaManager
 
     actions:
-      - label: Contact Me
+      - label: acerca de mi
         url: /about
         style: button
   - section_id: recent-posts
