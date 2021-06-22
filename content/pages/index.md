@@ -24,7 +24,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     title: Articulos recien
-    posts_number: 4
+    posts_number: 1
     actions:
       - label: Mirar blog
         url: blog/index.html
