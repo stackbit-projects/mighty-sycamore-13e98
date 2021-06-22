@@ -13,7 +13,6 @@ sections:
 
   - section_id: about
     type: section_content
-    title: About
     content: >+
       Psicóloga - estudiante de @Platzi en la carrera profesional Marketing
       Digital - #CommunityManager - #SocialMediaManager
