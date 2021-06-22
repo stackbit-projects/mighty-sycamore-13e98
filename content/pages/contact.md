@@ -27,6 +27,7 @@ sections:
           - Asesoría Virtual
           - Servicios
           - Queremos contratarte
+          - lorem-ipsum
         default_value: Por favor seleccionar
       - input_type: textarea
         name: message
