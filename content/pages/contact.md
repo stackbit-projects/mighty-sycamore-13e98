@@ -25,7 +25,7 @@ sections:
         label: 'Interés en:'
         options:
           - Asesoría Virtual
-          - Sponsorship
+          - Servicios
           - Other
         default_value: Por favor seleccionar
       - input_type: textarea
