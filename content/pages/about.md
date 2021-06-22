@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-### ¡Hola! que placer tenerte por aca :)
+### **¡Hola! que placer tenerte por aca :)**
 
 Un gusto, mi nombre es Mara Maiguel Prince, soy psicóloga y a la vez marketer. Te preguntarás ¿Por qué estudié estas dos carreras? Y ¿Qué es lo que realmente deseo transmitir por medio de ellas?. 
 
@@ -55,6 +55,6 @@ Estoy enfocada en trabajar las areas de Marketing Digital como Community Manager
 
 En estos momentos me encuentro organizando mi proyecto de marca personal para transmitir por medio de mis redes sociales conocimientos que le sean necesarios a mi comunidad y a su vez, si necesitan contrarme u obtener mis servicios. Tambien estoy relizando mi blog personal y subo podcast todos los viernes sobre salud mental.
 
-#### **Para escucharlos puedes ingresar aca ->**[ https://anchor.fm/mara-maiguel](https://anchor.fm/mara-maiguel)
+##### **Para escucharlos puedes ingresar aca ->**[ https://anchor.fm/mara-maiguel](https://anchor.fm/mara-maiguel)
 
 ###
