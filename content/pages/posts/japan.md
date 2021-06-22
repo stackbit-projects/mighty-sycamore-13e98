@@ -1,5 +1,4 @@
 ---
-title: Minimalist Travel - A Weekend in Japan
 date: '2019-03-24'
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
 content_img_path: images/2.jpg
