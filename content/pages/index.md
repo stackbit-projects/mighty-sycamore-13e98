@@ -26,7 +26,7 @@ sections:
     title: Articulos recien
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: Mirar blog
         url: blog/index.html
         style: button
 seo:
