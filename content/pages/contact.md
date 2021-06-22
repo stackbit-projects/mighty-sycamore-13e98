@@ -26,7 +26,7 @@ sections:
         options:
           - Asesoría Virtual
           - Servicios
-          - Other
+          - Queremos contratarte
         default_value: Por favor seleccionar
       - input_type: textarea
         name: message
