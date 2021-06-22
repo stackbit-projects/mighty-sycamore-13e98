@@ -31,13 +31,24 @@ seo:
       relativeUrl: true
 layout: page
 ---
+¡Hola! que placer tenerte por aca.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Un gusto, mi nombre es Mara Maiguel Prince, soy psicóloga y a la vez marketer. Te preguntarás ¿Por qué estudié estas dos carreras? Y ¿Qué es lo que realmente deseo transmitir por medio de ellas?. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Antes de empezar la universidad, siempre me habían gustado estas dos profesiones, pero necesitaba tomar una decisión  con la cual encaminarme primordialmente. Por lo que decidí ir con psicología, conocer  el comportamiento, habilidades y capacidades del ser, su forma de socializar y a su vez entender  cada etapa de la vida. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Ya graduada, comencé a estudiar Marketing digital, el lado estratégico y analítico de la tecnología, ese proceso fundamental para toda persona que quiere desarrollar cualquier actividad y lograr llegar a ese público objetivo. Desde ese entonces analice mi proceso profesional para empezar a llevar a cabo mis conocimientos ayudando a emprendedores, empresas, personas con talento o habilidades por estos medios tecnológicos.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+No solamente me quiero enfocar  desde lo estratégico, sino también desde lo psicológico como el manejo de las emociones, pensamientos, productividad entre otros. Entender al ser, cuales son sus necesidades y de esta manera cómo podemos comunicar a los demás nuestros servicios, productos o talento.
 
-*Thank You for reading!*
+Soy una persona que le encanta vivir cada instante con las cosas más pequeñas pero significativas. Ayudando a los demás desde mis conocimientos, enseñando y compartiendo momentos únicos de cada historia que se unen a mi proceso profesional. Todo lo hago con amor, paciencia y responsabilidad, sin parar de aprender y disfrutando de la vida.
+
+## **¿En que me especializo?**
+
+Estoy enfocada en trabajar las areas de Marketing Digital como Community Manager, Content Manager y Social Media Manager.
+
+## **Proyectos recientes**
+
+En estos momentos me encuentro organizando mi proyecto de marca personal para transmitir por medio de mis redes sociales conocimientos que le sean necesarios a mi comunidad y a su vez, si necesitan contrarme u obtener mis servicios. Tambien estoy relizando mi blog personal y subo podcast todos los viernes sobre salud mental.
+
+Para escucharlos puedes ingresar aca ->[ https://anchor.fm/mara-maiguel](https://anchor.fm/mara-maiguel)
