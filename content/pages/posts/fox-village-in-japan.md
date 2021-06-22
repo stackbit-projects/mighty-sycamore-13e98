@@ -4,7 +4,6 @@ subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
 date: '2018-01-11'
-thumb_img_path: images/5.jpg
 thumb_img_alt: A red fox in a rocky forest
 content_img_path: images/5.jpg
 content_img_alt: A red fox in a rocky forest
