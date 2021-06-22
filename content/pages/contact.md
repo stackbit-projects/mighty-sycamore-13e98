@@ -24,7 +24,7 @@ sections:
         name: subject
         label: 'Interés en:'
         options:
-          - Asesoria Virtual
+          - Asesoría Virtual
           - Sponsorship
           - Other
         default_value: Por favor seleccionar
