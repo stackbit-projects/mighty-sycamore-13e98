@@ -49,9 +49,7 @@ Estoy enfocada en trabajar las areas de Marketing Digital como Community Manager
 
 ## **Mis servicios**
 
-![](/\_static/app-assets/images/ASESORIAS%20VIRTUALES.png)
 
-![](/\_static/app-assets/images/ASESORIAS%20VIRTUALES%20\(1\).png)
 
 ## **Proyectos recientes**
 
