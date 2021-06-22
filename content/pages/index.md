@@ -25,10 +25,7 @@ sections:
     type: section_posts
     title: Articulos recien
     posts_number: 1
-    actions:
-      - label: Mirar blog
-        url: blog/index.html
-        style: button
+    actions: []
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
