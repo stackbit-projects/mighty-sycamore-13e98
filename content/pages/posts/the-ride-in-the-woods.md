@@ -1,5 +1,4 @@
 ---
-title: The Ride In The Woods
 subtitle: A cautionary tale about riding
 date: '2018-01-23'
 thumb_img_alt: A motorcycle in a forest
