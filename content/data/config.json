@@ -78,6 +78,8 @@
             }
         ]
     },
-    "footer": {},
+    "footer": {
+        "content": "Mara Maiguel Prince"
+    },
     "domain": "https://mighty-sycamore-13e98.netlify.app"
 }
