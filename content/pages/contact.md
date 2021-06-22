@@ -23,7 +23,7 @@ sections:
       - input_type: select
         name: subject
         label: 'Interés en:'
-        default_value: af roP
+        default_value: f roP
         options:
           - Error on the site
           - Sponsorship
