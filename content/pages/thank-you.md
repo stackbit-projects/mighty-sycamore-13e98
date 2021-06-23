@@ -4,7 +4,4 @@ img_path: /images/gracias.png
 img_alt: Thank You Led Signage
 layout: page
 ---
-
-Thank you for contacting me! I will get back in touch with you soon.
-
-**Have a great day!**
+### **¡Eres siempre bienvenid@! Que tengan un lindo día :D&#xA;**&#xA;
