@@ -1,5 +1,7 @@
 ---
-title: 'Muchas gracias por visitar mi sitio web, eres bienvenid@, si des'
+title: >-
+  Muchas gracias por visitar mi sitio web. ¡Eres siempre bienvenid@! Que tengan
+  un lindo día :D
 img_path: /images/gracias.png
 img_alt: Thank You Led Signage
 layout: page
