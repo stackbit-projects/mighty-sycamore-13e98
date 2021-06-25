@@ -6,7 +6,7 @@ excerpt: >-
 date: '2021-06-25'
 thumb_img_path: /images/primer blog.jpg
 thumb_img_alt: Icelandic horses
-content_img_path: images/7.jpg
+content_img_path: /images/pink-thyme.jpg
 content_img_alt: Icelandic horses
 seo:
   title: Fragments of Iceland
