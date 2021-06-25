@@ -52,4 +52,4 @@ layout: post
 
 ##### O si estas solo o sola siempre habla contigo cuando te sientas demasiado frustrado, estas palabras son necesarias como; mira hasta donde hemos llegado, lo que hemos construido o lo que apenas esta empezando con grandes esfuerzos, nunca te olvides de mirar atrás cuando todo era solo una idea y termino siendo un proyecto grandioso.
 
-##### **Espero que te haya gustado mi primer blog, no solo leas, llévalo en practica y por supuesto disfruta y ama lo que haces.**
+**Espero que te haya gustado mi primer blog, no solo leas, llévalo en practica y por supuesto disfruta y ama lo que haces.**
