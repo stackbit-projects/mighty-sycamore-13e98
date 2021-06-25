@@ -42,7 +42,7 @@ layout: post
 ---
 Editado por: Mara Maiguel Prince
 
-##### ¿Te has preguntado esto alguna vez si realmente estas disfrutando el proceso de tu negocio? todo lo que estas realizando mientras que llegas a tu objetivo ¿crees que manejas bien tus emociones y pensamientos?. A veces tenemos días demasiado agotados, que no podemos más, sin energía o con pensamientos de si realmente llegara a ser grande tu emprendimiento o empresa como lo deseas.
+¿Te has preguntado esto alguna vez si realmente estas disfrutando el proceso de tu negocio? todo lo que estas realizando mientras que llegas a tu objetivo ¿crees que manejas bien tus emociones y pensamientos?. A veces tenemos días demasiado agotados, que no podemos más, sin energía o con pensamientos de si realmente llegara a ser grande tu emprendimiento o empresa como lo deseas.
 
 ##### \*\* Entiendo tu punto de muchos sentidos y se que no es fácil, te daré el ejemplo de mi hermana y mío. Nosotras creamos Mapri, es una tienda virtual de accesorios y ropa alusivas a lo africano. Teníamos que buscar proveedores para las telas, ilustradores para nuestros diseños propios y muchas cosas que requerían constante investigación y esfuerzo. Nos desmotivábamos bastante ya que el proceso era lento, esperando que llegara todo y así poder venderlos y por supuesto darle un gran valor significativo a nuestro cliente. Comenzamos a pensar en un tiempo que se estaba complicando todo ya que demorábamos en lanzar el producto, pero aun así nos animábamos armando ideas, buscando e investigando, cuando una no quería seguir, la otra la animaba mostrando nuevas cosas que pensaba y así sucesivamente. \*\*
 
