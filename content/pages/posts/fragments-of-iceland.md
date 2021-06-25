@@ -39,6 +39,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
+title: ¿
 ---
 Editado por: Mara Maiguel Prince
 
