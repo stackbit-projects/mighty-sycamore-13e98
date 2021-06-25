@@ -39,7 +39,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
-title: Consejos para disfrutar mi emprendmiento o empresa
+title: Consejos para disfrutar mi emprendimiento o empresa
 ---
 Editado por: Mara Maiguel Prince
 
