@@ -1,8 +1,8 @@
 ---
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+  Queremos dar lo mejor de nosotros para nuestro negocio, pero descuidamos la
+  parte esencia que es el disfrutar el proceso. Ingresa para saber que puede
+  estar ocurriendo.
 date: '2021-06-25'
 thumb_img_path: /images/primer blog.jpg
 thumb_img_alt: Icelandic horses
