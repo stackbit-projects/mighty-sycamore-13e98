@@ -27,7 +27,7 @@ sections:
     posts_number: 1
     actions: []
 seo:
-  title: Stackbit Fresh Theme
+  title: Mara Maiguel Prince
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
