@@ -40,7 +40,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-#### **Editado por: Mara Maiguel Prince**
+**Editado por: Mara Maiguel Prince**
 
 #### **¿Te has preguntado esto alguna vez si realmente estas disfrutando el proceso de tu negocio?** todo lo que estas realizando mientras que llegas a tu objetivo **¿crees que manejas bien  tus emociones y pensamientos?**. A veces tenemos días demasiado agotados, que no podemos más, sin energía o con pensamientos de si realmente llegara a ser grande tu emprendimiento o empresa como lo deseas.
 
